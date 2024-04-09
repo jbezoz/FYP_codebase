@@ -1,0 +1,17 @@
+[
+    {
+        "elements": [
+            {
+                "distance": {
+                    "text": "152 km",
+                    "value": 151934
+                },
+                "duration": {
+                    "text": "2 hours 43 mins",
+                    "value": 9783
+                },
+                "status": "OK"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1634 @@
+[
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -BP-Bazargaon",
+        "original_source_to_pump_distance": "18.607km",
+        "original_source_to_pump_duration": "32.516666666666666min",
+        "pump_to_destination_distance": "134.088km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "259.37315 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -BP-Bazargaon",
+        "original_source_to_pump_distance": "18.607km",
+        "original_source_to_pump_duration": "32.516666666666666min",
+        "pump_to_destination_distance": "134.088km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "266.37315 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "268.8363 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "269.57804999999996 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "270.46638333333334 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Kailash Highway Automobiles",
+        "original_source_to_pump_distance": "29.607km",
+        "original_source_to_pump_duration": "45.43333333333333min",
+        "pump_to_destination_distance": "130.946km",
+        "pump_to_destination_duration": "127.78333333333333min",
+        "total_time": "270.5398166666667 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "274.46638333333334 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "274.46638333333334 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Nagpur Auto Services",
+        "original_source_to_pump_distance": "21.006km",
+        "original_source_to_pump_duration": "37.03333333333333min",
+        "pump_to_destination_distance": "139.146km",
+        "pump_to_destination_duration": "142.03333333333333min",
+        "total_time": "274.48603333333335 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "26.759km",
+        "original_source_to_pump_duration": "41.96666666666667min",
+        "pump_to_destination_distance": "125.175km",
+        "pump_to_destination_duration": "121.06666666666666min",
+        "total_time": "276.02339215686277 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "26.759km",
+        "original_source_to_pump_duration": "41.96666666666667min",
+        "pump_to_destination_distance": "125.175km",
+        "pump_to_destination_duration": "121.06666666666666min",
+        "total_time": "276.7795 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "277.6855 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "23.201km",
+        "original_source_to_pump_duration": "40.71666666666667min",
+        "pump_to_destination_distance": "136.977km",
+        "pump_to_destination_duration": "138.05min",
+        "total_time": "278.461 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "278.6855 minutes"
+    },
+    {
+        "petrol_pump_name": "BP WADI, BPCL COCO PUMP, WADI.",
+        "original_source_to_pump_distance": "7.566km",
+        "original_source_to_pump_duration": "13.833333333333334min",
+        "pump_to_destination_distance": "144.368km",
+        "pump_to_destination_duration": "149.2min",
+        "total_time": "279.3163333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump - Vitthal Automobiles",
+        "original_source_to_pump_distance": "29.237km",
+        "original_source_to_pump_duration": "44.31666666666667min",
+        "pump_to_destination_distance": "122.696km",
+        "pump_to_destination_duration": "118.73333333333333min",
+        "total_time": "280.88998333333336 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "281.65361666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "14.901km",
+        "original_source_to_pump_duration": "24.366666666666667min",
+        "pump_to_destination_distance": "147.55km",
+        "pump_to_destination_duration": "150.58333333333334min",
+        "total_time": "282.0627543859649 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Bhawani Petroleum",
+        "original_source_to_pump_distance": "12.634km",
+        "original_source_to_pump_duration": "25.4min",
+        "pump_to_destination_distance": "141.525km",
+        "pump_to_destination_duration": "145.68333333333334min",
+        "total_time": "282.3686333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Col Mishra Land",
+        "original_source_to_pump_distance": "17.222km",
+        "original_source_to_pump_duration": "29.8min",
+        "pump_to_destination_distance": "134.712km",
+        "pump_to_destination_duration": "133.23333333333332min",
+        "total_time": "282.81217543859646 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "20.578km",
+        "original_source_to_pump_duration": "34.31666666666667min",
+        "pump_to_destination_distance": "146.595km",
+        "pump_to_destination_duration": "148.8min",
+        "total_time": "282.9685263157895 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "26.759km",
+        "original_source_to_pump_duration": "41.96666666666667min",
+        "pump_to_destination_distance": "125.175km",
+        "pump_to_destination_duration": "121.06666666666666min",
+        "total_time": "283.0852708333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "283.4531166666667 minutes"
+    },
+    {
+        "petrol_pump_name": "DHL SmarTrucking Nagpur SmartHub",
+        "original_source_to_pump_distance": "23.18km",
+        "original_source_to_pump_duration": "40.61666666666667min",
+        "pump_to_destination_distance": "136.956km",
+        "pump_to_destination_duration": "137.96666666666667min",
+        "total_time": "283.50666666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump - Vitthal Automobiles",
+        "original_source_to_pump_distance": "29.237km",
+        "original_source_to_pump_duration": "44.31666666666667min",
+        "pump_to_destination_distance": "122.696km",
+        "pump_to_destination_duration": "118.73333333333333min",
+        "total_time": "284.4958125 minutes"
+    },
+    {
+        "petrol_pump_name": "BP Bazargaon, Bharat Petroleum COCO Pump",
+        "original_source_to_pump_distance": "30.31km",
+        "original_source_to_pump_duration": "45.93333333333333min",
+        "pump_to_destination_distance": "121.654km",
+        "pump_to_destination_duration": "118.8min",
+        "total_time": "284.5784210526316 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "284.6697894736842 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "23.201km",
+        "original_source_to_pump_duration": "40.71666666666667min",
+        "pump_to_destination_distance": "136.977km",
+        "pump_to_destination_duration": "138.05min",
+        "total_time": "285.49045 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump - Vitthal Automobiles",
+        "original_source_to_pump_distance": "29.237km",
+        "original_source_to_pump_duration": "44.31666666666667min",
+        "pump_to_destination_distance": "122.696km",
+        "pump_to_destination_duration": "118.73333333333333min",
+        "total_time": "286.0352745098039 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "286.70117543859647 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "286.8363 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "287.6636833333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "287.74210416666665 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "287.8363 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "20.682km",
+        "original_source_to_pump_duration": "35.63333333333333min",
+        "pump_to_destination_distance": "131.33km",
+        "pump_to_destination_duration": "127.85min",
+        "total_time": "288.1569 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Bhawani Petroleum",
+        "original_source_to_pump_distance": "12.634km",
+        "original_source_to_pump_duration": "25.4min",
+        "pump_to_destination_distance": "141.525km",
+        "pump_to_destination_duration": "145.68333333333334min",
+        "total_time": "290.0889122807018 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "8.501km",
+        "original_source_to_pump_duration": "17.3min",
+        "pump_to_destination_distance": "144.8km",
+        "pump_to_destination_duration": "151.16666666666666min",
+        "total_time": "291.49072549019604 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Kailash Highway Automobiles",
+        "original_source_to_pump_distance": "29.607km",
+        "original_source_to_pump_duration": "45.43333333333333min",
+        "pump_to_destination_distance": "130.946km",
+        "pump_to_destination_duration": "127.78333333333333min",
+        "total_time": "291.92016666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "291.9302833333333 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump - Vitthal Automobiles",
+        "original_source_to_pump_distance": "29.237km",
+        "original_source_to_pump_duration": "44.31666666666667min",
+        "pump_to_destination_distance": "122.696km",
+        "pump_to_destination_duration": "118.73333333333333min",
+        "total_time": "292.59220000000005 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump -Lalit Automobiles",
+        "original_source_to_pump_distance": "5.736km",
+        "original_source_to_pump_duration": "11.433333333333334min",
+        "pump_to_destination_distance": "147.39km",
+        "pump_to_destination_duration": "155.05min",
+        "total_time": "292.9102352941177 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Bhawani Petroleum",
+        "original_source_to_pump_distance": "12.634km",
+        "original_source_to_pump_duration": "25.4min",
+        "pump_to_destination_distance": "141.525km",
+        "pump_to_destination_duration": "145.68333333333334min",
+        "total_time": "293.0889122807018 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "294.5920208333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Bhawani Petroleum",
+        "original_source_to_pump_distance": "12.634km",
+        "original_source_to_pump_duration": "25.4min",
+        "pump_to_destination_distance": "141.525km",
+        "pump_to_destination_duration": "145.68333333333334min",
+        "total_time": "295.0889122807018 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "21.145km",
+        "original_source_to_pump_duration": "36.8min",
+        "pump_to_destination_distance": "138.949km",
+        "pump_to_destination_duration": "140.53333333333333min",
+        "total_time": "295.4273958333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump",
+        "original_source_to_pump_distance": "4.145km",
+        "original_source_to_pump_duration": "10.433333333333334min",
+        "pump_to_destination_distance": "151.344km",
+        "pump_to_destination_duration": "161.2min",
+        "total_time": "295.5844736842105 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "295.59046666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "5.455km",
+        "original_source_to_pump_duration": "11.366666666666667min",
+        "pump_to_destination_distance": "148.8km",
+        "pump_to_destination_duration": "155.8min",
+        "total_time": "296.5114705882353 minutes"
+    },
+    {
+        "petrol_pump_name": "DHL SmarTrucking Nagpur SmartHub",
+        "original_source_to_pump_distance": "23.18km",
+        "original_source_to_pump_duration": "40.61666666666667min",
+        "pump_to_destination_distance": "136.956km",
+        "pump_to_destination_duration": "137.96666666666667min",
+        "total_time": "296.62208333333336 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "8.501km",
+        "original_source_to_pump_duration": "17.3min",
+        "pump_to_destination_distance": "144.8km",
+        "pump_to_destination_duration": "151.16666666666666min",
+        "total_time": "296.7505 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "8.501km",
+        "original_source_to_pump_duration": "17.3min",
+        "pump_to_destination_distance": "144.8km",
+        "pump_to_destination_duration": "151.16666666666666min",
+        "total_time": "296.94847916666663 minutes"
+    },
+    {
+        "petrol_pump_name": "Reliance Petrol Pump",
+        "original_source_to_pump_distance": "23.104km",
+        "original_source_to_pump_duration": "39.28333333333333min",
+        "pump_to_destination_distance": "128.849km",
+        "pump_to_destination_duration": "125.96666666666667min",
+        "total_time": "297.0217254901961 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "297.2837450980392 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "7.211km",
+        "original_source_to_pump_duration": "14.366666666666667min",
+        "pump_to_destination_distance": "145.99km",
+        "pump_to_destination_duration": "152.56666666666666min",
+        "total_time": "297.5055 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump Patel Service Station",
+        "original_source_to_pump_distance": "14.886km",
+        "original_source_to_pump_duration": "29.516666666666666min",
+        "pump_to_destination_distance": "158.464km",
+        "pump_to_destination_duration": "172.3min",
+        "total_time": "299.9987 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "300.23601960784316 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum (SRPF)",
+        "original_source_to_pump_distance": "5.932km",
+        "original_source_to_pump_duration": "14.0min",
+        "pump_to_destination_distance": "147.904km",
+        "pump_to_destination_duration": "157.61666666666667min",
+        "total_time": "300.95341666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "301.05713333333335 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Vishal Petroleum",
+        "original_source_to_pump_distance": "1.635km",
+        "original_source_to_pump_duration": "5.483333333333333min",
+        "pump_to_destination_distance": "153.001km",
+        "pump_to_destination_duration": "163.66666666666666min",
+        "total_time": "301.8621929824561 minutes"
+    },
+    {
+        "petrol_pump_name": "Bajaj Nagar petrol pump",
+        "original_source_to_pump_distance": "1.028km",
+        "original_source_to_pump_duration": "3.1666666666666665min",
+        "pump_to_destination_distance": "152.53km",
+        "pump_to_destination_duration": "164.26666666666668min",
+        "total_time": "302.11400000000003 minutes"
+    },
+    {
+        "petrol_pump_name": "Pramod Petrol Pump",
+        "original_source_to_pump_distance": "21.472km",
+        "original_source_to_pump_duration": "37.233333333333334min",
+        "pump_to_destination_distance": "138.621km",
+        "pump_to_destination_duration": "140.1min",
+        "total_time": "304.2910588235294 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -BP-Bazargaon",
+        "original_source_to_pump_distance": "18.607km",
+        "original_source_to_pump_duration": "32.516666666666666min",
+        "pump_to_destination_distance": "134.088km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "304.37315 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "22.179km",
+        "original_source_to_pump_duration": "43.766666666666666min",
+        "pump_to_destination_distance": "139.042km",
+        "pump_to_destination_duration": "138.45min",
+        "total_time": "305.9256875 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "306.46638333333334 minutes"
+    },
+    {
+        "petrol_pump_name": "Amol Sahare",
+        "original_source_to_pump_distance": "29.926km",
+        "original_source_to_pump_duration": "47.78333333333333min",
+        "pump_to_destination_distance": "132.382km",
+        "pump_to_destination_duration": "129.45min",
+        "total_time": "307.18893333333335 minutes"
+    },
+    {
+        "petrol_pump_name": "Reliance Petrol Pump",
+        "original_source_to_pump_distance": "23.104km",
+        "original_source_to_pump_duration": "39.28333333333333min",
+        "pump_to_destination_distance": "128.849km",
+        "pump_to_destination_duration": "125.96666666666667min",
+        "total_time": "307.852 minutes"
+    },
+    {
+        "petrol_pump_name": "Pramod Petrol Pump",
+        "original_source_to_pump_distance": "21.472km",
+        "original_source_to_pump_duration": "37.233333333333334min",
+        "pump_to_destination_distance": "138.621km",
+        "pump_to_destination_duration": "140.1min",
+        "total_time": "307.9832 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "309.0403333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "20.578km",
+        "original_source_to_pump_duration": "34.31666666666667min",
+        "pump_to_destination_distance": "146.595km",
+        "pump_to_destination_duration": "148.8min",
+        "total_time": "309.51776470588237 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "26.759km",
+        "original_source_to_pump_duration": "41.96666666666667min",
+        "pump_to_destination_distance": "125.175km",
+        "pump_to_destination_duration": "121.06666666666666min",
+        "total_time": "310.0567254901961 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "311.4484 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "312.53116666666665 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "312.5374 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "312.5374 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "312.81222916666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "313.05713333333335 minutes"
+    },
+    {
+        "petrol_pump_name": "Reliance Petrol Pump",
+        "original_source_to_pump_distance": "23.104km",
+        "original_source_to_pump_duration": "39.28333333333333min",
+        "pump_to_destination_distance": "128.849km",
+        "pump_to_destination_duration": "125.96666666666667min",
+        "total_time": "313.3634666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "BP WADI, BPCL COCO PUMP, WADI.",
+        "original_source_to_pump_distance": "7.566km",
+        "original_source_to_pump_duration": "13.833333333333334min",
+        "pump_to_destination_distance": "144.368km",
+        "pump_to_destination_duration": "149.2min",
+        "total_time": "313.7396 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "314.16029824561406 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "7.477km",
+        "original_source_to_pump_duration": "13.483333333333333min",
+        "pump_to_destination_distance": "144.635km",
+        "pump_to_destination_duration": "150.18333333333334min",
+        "total_time": "314.2551666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "BP Bazargaon, Bharat Petroleum COCO Pump",
+        "original_source_to_pump_distance": "30.31km",
+        "original_source_to_pump_duration": "45.93333333333333min",
+        "pump_to_destination_distance": "121.654km",
+        "pump_to_destination_duration": "118.8min",
+        "total_time": "314.4395 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "21.145km",
+        "original_source_to_pump_duration": "36.8min",
+        "pump_to_destination_distance": "138.949km",
+        "pump_to_destination_duration": "140.53333333333333min",
+        "total_time": "314.97043859649125 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum",
+        "original_source_to_pump_distance": "2.541km",
+        "original_source_to_pump_duration": "8.0min",
+        "pump_to_destination_distance": "150.995km",
+        "pump_to_destination_duration": "164.8min",
+        "total_time": "315.32460000000003 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump Shree Krishna Automobiles",
+        "original_source_to_pump_distance": "7.435km",
+        "original_source_to_pump_duration": "13.383333333333333min",
+        "pump_to_destination_distance": "144.499km",
+        "pump_to_destination_duration": "149.66666666666666min",
+        "total_time": "316.12766666666664 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Verma filling station",
+        "original_source_to_pump_distance": "8.81km",
+        "original_source_to_pump_duration": "15.016666666666667min",
+        "pump_to_destination_distance": "147.605km",
+        "pump_to_destination_duration": "154.88333333333333min",
+        "total_time": "316.1693333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "13.056km",
+        "original_source_to_pump_duration": "25.266666666666666min",
+        "pump_to_destination_distance": "146.283km",
+        "pump_to_destination_duration": "150.95min",
+        "total_time": "316.294 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "7.211km",
+        "original_source_to_pump_duration": "14.366666666666667min",
+        "pump_to_destination_distance": "145.99km",
+        "pump_to_destination_duration": "152.56666666666666min",
+        "total_time": "316.40345614035084 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "316.4055614035088 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "316.4055614035088 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "316.65361666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump",
+        "original_source_to_pump_distance": "5.121km",
+        "original_source_to_pump_duration": "10.35min",
+        "pump_to_destination_distance": "148.725km",
+        "pump_to_destination_duration": "155.56666666666666min",
+        "total_time": "317.41345614035083 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "8.501km",
+        "original_source_to_pump_duration": "17.3min",
+        "pump_to_destination_distance": "144.8km",
+        "pump_to_destination_duration": "151.16666666666666min",
+        "total_time": "318.26726666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Pramod Petrol Pump",
+        "original_source_to_pump_distance": "21.472km",
+        "original_source_to_pump_duration": "37.233333333333334min",
+        "pump_to_destination_distance": "138.621km",
+        "pump_to_destination_duration": "140.1min",
+        "total_time": "319.692 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump -Lalit Automobiles",
+        "original_source_to_pump_distance": "5.736km",
+        "original_source_to_pump_duration": "11.433333333333334min",
+        "pump_to_destination_distance": "147.39km",
+        "pump_to_destination_duration": "155.05min",
+        "total_time": "320.2765 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Kailash Highway Automobiles",
+        "original_source_to_pump_distance": "29.607km",
+        "original_source_to_pump_duration": "45.43333333333333min",
+        "pump_to_destination_distance": "130.946km",
+        "pump_to_destination_duration": "127.78333333333333min",
+        "total_time": "321.5475333333334 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "322.12816666666663 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Bhawani Petroleum",
+        "original_source_to_pump_distance": "12.634km",
+        "original_source_to_pump_duration": "25.4min",
+        "pump_to_destination_distance": "141.525km",
+        "pump_to_destination_duration": "145.68333333333334min",
+        "total_time": "323.3686333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "5.785km",
+        "original_source_to_pump_duration": "16.366666666666667min",
+        "pump_to_destination_distance": "154.811km",
+        "pump_to_destination_duration": "167.78333333333333min",
+        "total_time": "323.3865833333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "323.57804999999996 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "324.4663684210526 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "2.54km",
+        "original_source_to_pump_duration": "7.6min",
+        "pump_to_destination_distance": "154.349km",
+        "pump_to_destination_duration": "167.21666666666667min",
+        "total_time": "326.7406666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Verma filling station",
+        "original_source_to_pump_distance": "8.81km",
+        "original_source_to_pump_duration": "15.016666666666667min",
+        "pump_to_destination_distance": "147.605km",
+        "pump_to_destination_duration": "154.88333333333333min",
+        "total_time": "328.1693333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "21.145km",
+        "original_source_to_pump_duration": "36.8min",
+        "pump_to_destination_distance": "138.949km",
+        "pump_to_destination_duration": "140.53333333333333min",
+        "total_time": "328.2203333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "16.652km",
+        "original_source_to_pump_duration": "29.933333333333334min",
+        "pump_to_destination_distance": "146.207km",
+        "pump_to_destination_duration": "149.93333333333334min",
+        "total_time": "328.2421754385965 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "328.58660784313724 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "13.056km",
+        "original_source_to_pump_duration": "25.266666666666666min",
+        "pump_to_destination_distance": "146.283km",
+        "pump_to_destination_duration": "150.95min",
+        "total_time": "328.8113333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "13.056km",
+        "original_source_to_pump_duration": "25.266666666666666min",
+        "pump_to_destination_distance": "146.283km",
+        "pump_to_destination_duration": "150.95min",
+        "total_time": "329.294 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "330.14593333333335 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "8.501km",
+        "original_source_to_pump_duration": "17.3min",
+        "pump_to_destination_distance": "144.8km",
+        "pump_to_destination_duration": "151.16666666666666min",
+        "total_time": "330.49072549019604 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "330.70117543859647 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump Shree Krishna Automobiles",
+        "original_source_to_pump_distance": "7.435km",
+        "original_source_to_pump_duration": "13.383333333333333min",
+        "pump_to_destination_distance": "144.499km",
+        "pump_to_destination_duration": "149.66666666666666min",
+        "total_time": "331.0124166666667 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "22.179km",
+        "original_source_to_pump_duration": "43.766666666666666min",
+        "pump_to_destination_distance": "139.042km",
+        "pump_to_destination_duration": "138.45min",
+        "total_time": "331.0153529411765 minutes"
+    },
+    {
+        "petrol_pump_name": "SIMRAN PETROLEUM",
+        "original_source_to_pump_distance": "4.778km",
+        "original_source_to_pump_duration": "11.033333333333333min",
+        "pump_to_destination_distance": "150.377km",
+        "pump_to_destination_duration": "160.46666666666667min",
+        "total_time": "332.33346666666665 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "5.856km",
+        "original_source_to_pump_duration": "15.283333333333333min",
+        "pump_to_destination_distance": "153.968km",
+        "pump_to_destination_duration": "169.13333333333333min",
+        "total_time": "332.6469333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "26.759km",
+        "original_source_to_pump_duration": "41.96666666666667min",
+        "pump_to_destination_distance": "125.175km",
+        "pump_to_destination_duration": "121.06666666666666min",
+        "total_time": "333.0567254901961 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "334.23601960784316 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "21.145km",
+        "original_source_to_pump_duration": "36.8min",
+        "pump_to_destination_distance": "138.949km",
+        "pump_to_destination_duration": "140.53333333333333min",
+        "total_time": "334.55127450980393 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Kailash Highway Automobiles",
+        "original_source_to_pump_distance": "29.607km",
+        "original_source_to_pump_duration": "45.43333333333333min",
+        "pump_to_destination_distance": "130.946km",
+        "pump_to_destination_duration": "127.78333333333333min",
+        "total_time": "335.10648333333336 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "26.759km",
+        "original_source_to_pump_duration": "41.96666666666667min",
+        "pump_to_destination_distance": "125.175km",
+        "pump_to_destination_duration": "121.06666666666666min",
+        "total_time": "335.1220666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Amol Sahare",
+        "original_source_to_pump_distance": "29.926km",
+        "original_source_to_pump_duration": "47.78333333333333min",
+        "pump_to_destination_distance": "132.382km",
+        "pump_to_destination_duration": "129.45min",
+        "total_time": "335.283375 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "335.5920208333333 minutes"
+    },
+    {
+        "petrol_pump_name": "SIMRAN PETROLEUM",
+        "original_source_to_pump_distance": "4.778km",
+        "original_source_to_pump_duration": "11.033333333333333min",
+        "pump_to_destination_distance": "150.377km",
+        "pump_to_destination_duration": "160.46666666666667min",
+        "total_time": "335.61676666666665 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Verma filling station",
+        "original_source_to_pump_distance": "8.81km",
+        "original_source_to_pump_duration": "15.016666666666667min",
+        "pump_to_destination_distance": "147.605km",
+        "pump_to_destination_duration": "154.88333333333333min",
+        "total_time": "335.8389583333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Ishwar petroleum by Bharat Petroleum",
+        "original_source_to_pump_distance": "11.64km",
+        "original_source_to_pump_duration": "28.783333333333335min",
+        "pump_to_destination_distance": "156.579km",
+        "pump_to_destination_duration": "171.83333333333334min",
+        "total_time": "336.0713333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "20.682km",
+        "original_source_to_pump_duration": "35.63333333333333min",
+        "pump_to_destination_distance": "131.33km",
+        "pump_to_destination_duration": "127.85min",
+        "total_time": "336.48362499999996 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "5.455km",
+        "original_source_to_pump_duration": "11.366666666666667min",
+        "pump_to_destination_distance": "148.8km",
+        "pump_to_destination_duration": "155.8min",
+        "total_time": "336.86083333333335 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "13.056km",
+        "original_source_to_pump_duration": "25.266666666666666min",
+        "pump_to_destination_distance": "146.283km",
+        "pump_to_destination_duration": "150.95min",
+        "total_time": "338.294 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum",
+        "original_source_to_pump_distance": "3.312km",
+        "original_source_to_pump_duration": "9.633333333333333min",
+        "pump_to_destination_distance": "154.408km",
+        "pump_to_destination_duration": "168.73333333333332min",
+        "total_time": "338.5963333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Nagpur Auto Services",
+        "original_source_to_pump_distance": "21.006km",
+        "original_source_to_pump_duration": "37.03333333333333min",
+        "pump_to_destination_distance": "139.146km",
+        "pump_to_destination_duration": "142.03333333333333min",
+        "total_time": "338.63693333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "18.38km",
+        "original_source_to_pump_duration": "30.083333333333332min",
+        "pump_to_destination_distance": "147.896km",
+        "pump_to_destination_duration": "149.83333333333334min",
+        "total_time": "338.960701754386 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Bhawani Petroleum",
+        "original_source_to_pump_distance": "12.634km",
+        "original_source_to_pump_duration": "25.4min",
+        "pump_to_destination_distance": "141.525km",
+        "pump_to_destination_duration": "145.68333333333334min",
+        "total_time": "339.33366666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "Petrol Pump",
+        "original_source_to_pump_distance": "14.459km",
+        "original_source_to_pump_duration": "30.116666666666667min",
+        "pump_to_destination_distance": "147.099km",
+        "pump_to_destination_duration": "157.91666666666666min",
+        "total_time": "339.59206666666665 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Nagpur Auto Services",
+        "original_source_to_pump_distance": "21.006km",
+        "original_source_to_pump_duration": "37.03333333333333min",
+        "pump_to_destination_distance": "139.146km",
+        "pump_to_destination_duration": "142.03333333333333min",
+        "total_time": "339.8492083333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "341.20877083333335 minutes"
+    },
+    {
+        "petrol_pump_name": "BP Bazargaon, Bharat Petroleum COCO Pump",
+        "original_source_to_pump_distance": "30.31km",
+        "original_source_to_pump_duration": "45.93333333333333min",
+        "pump_to_destination_distance": "121.654km",
+        "pump_to_destination_duration": "118.8min",
+        "total_time": "341.28833333333336 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "341.3905 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum (SRPF)",
+        "original_source_to_pump_distance": "5.932km",
+        "original_source_to_pump_duration": "14.0min",
+        "pump_to_destination_distance": "147.904km",
+        "pump_to_destination_duration": "157.61666666666667min",
+        "total_time": "341.5806666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump Shree Krishna Automobiles",
+        "original_source_to_pump_distance": "7.435km",
+        "original_source_to_pump_duration": "13.383333333333333min",
+        "pump_to_destination_distance": "144.499km",
+        "pump_to_destination_duration": "149.66666666666666min",
+        "total_time": "341.8488541666667 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "7.211km",
+        "original_source_to_pump_duration": "14.366666666666667min",
+        "pump_to_destination_distance": "145.99km",
+        "pump_to_destination_duration": "152.56666666666666min",
+        "total_time": "341.89326666666665 minutes"
+    },
+    {
+        "petrol_pump_name": "Reliance Petrol Pump",
+        "original_source_to_pump_distance": "23.104km",
+        "original_source_to_pump_duration": "39.28333333333333min",
+        "pump_to_destination_distance": "128.849km",
+        "pump_to_destination_duration": "125.96666666666667min",
+        "total_time": "341.9626666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump",
+        "original_source_to_pump_distance": "4.145km",
+        "original_source_to_pump_duration": "10.433333333333334min",
+        "pump_to_destination_distance": "151.344km",
+        "pump_to_destination_duration": "161.2min",
+        "total_time": "342.53156249999995 minutes"
+    },
+    {
+        "petrol_pump_name": "SIMRAN PETROLEUM",
+        "original_source_to_pump_distance": "4.778km",
+        "original_source_to_pump_duration": "11.033333333333333min",
+        "pump_to_destination_distance": "150.377km",
+        "pump_to_destination_duration": "160.46666666666667min",
+        "total_time": "342.6167666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -BP-Bazargaon",
+        "original_source_to_pump_distance": "18.607km",
+        "original_source_to_pump_duration": "32.516666666666666min",
+        "pump_to_destination_distance": "134.088km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "343.63683333333336 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Nagpur Auto Services",
+        "original_source_to_pump_distance": "21.006km",
+        "original_source_to_pump_duration": "37.03333333333333min",
+        "pump_to_destination_distance": "139.146km",
+        "pump_to_destination_duration": "142.03333333333333min",
+        "total_time": "343.8492083333333 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "13.056km",
+        "original_source_to_pump_duration": "25.266666666666666min",
+        "pump_to_destination_distance": "146.283km",
+        "pump_to_destination_duration": "150.95min",
+        "total_time": "344.294 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Bhawani Petroleum",
+        "original_source_to_pump_distance": "12.634km",
+        "original_source_to_pump_duration": "25.4min",
+        "pump_to_destination_distance": "141.525km",
+        "pump_to_destination_duration": "145.68333333333334min",
+        "total_time": "344.3686333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "BP Bazargaon, Bharat Petroleum COCO Pump",
+        "original_source_to_pump_distance": "30.31km",
+        "original_source_to_pump_duration": "45.93333333333333min",
+        "pump_to_destination_distance": "121.654km",
+        "pump_to_destination_duration": "118.8min",
+        "total_time": "344.67 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "345.45311666666663 minutes"
+    },
+    {
+        "petrol_pump_name": "Reliance Petrol Pump",
+        "original_source_to_pump_distance": "23.104km",
+        "original_source_to_pump_duration": "39.28333333333333min",
+        "pump_to_destination_distance": "128.849km",
+        "pump_to_destination_duration": "125.96666666666667min",
+        "total_time": "345.8290666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "346.6697894736842 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump",
+        "original_source_to_pump_distance": "5.121km",
+        "original_source_to_pump_duration": "10.35min",
+        "pump_to_destination_distance": "148.725km",
+        "pump_to_destination_duration": "155.56666666666666min",
+        "total_time": "347.1013137254902 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum - Petrol Pump",
+        "original_source_to_pump_distance": "8.009km",
+        "original_source_to_pump_duration": "18.916666666666668min",
+        "pump_to_destination_distance": "151.579km",
+        "pump_to_destination_duration": "161.05min",
+        "total_time": "347.65405 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump Shree Krishna Automobiles",
+        "original_source_to_pump_distance": "7.435km",
+        "original_source_to_pump_duration": "13.383333333333333min",
+        "pump_to_destination_distance": "144.499km",
+        "pump_to_destination_duration": "149.66666666666666min",
+        "total_time": "347.7175 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "348.04270588235295 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "7.211km",
+        "original_source_to_pump_duration": "14.366666666666667min",
+        "pump_to_destination_distance": "145.99km",
+        "pump_to_destination_duration": "152.56666666666666min",
+        "total_time": "348.5055 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "13.056km",
+        "original_source_to_pump_duration": "25.266666666666666min",
+        "pump_to_destination_distance": "146.283km",
+        "pump_to_destination_duration": "150.95min",
+        "total_time": "348.7836 minutes"
+    },
+    {
+        "petrol_pump_name": "Reliance Petrol Pump",
+        "original_source_to_pump_distance": "23.104km",
+        "original_source_to_pump_duration": "39.28333333333333min",
+        "pump_to_destination_distance": "128.849km",
+        "pump_to_destination_duration": "125.96666666666667min",
+        "total_time": "350.0217254901961 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Kailash Highway Automobiles",
+        "original_source_to_pump_distance": "29.607km",
+        "original_source_to_pump_duration": "45.43333333333333min",
+        "pump_to_destination_distance": "130.946km",
+        "pump_to_destination_duration": "127.78333333333333min",
+        "total_time": "350.92016666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "3.838km",
+        "original_source_to_pump_duration": "8.566666666666666min",
+        "pump_to_destination_distance": "151.781km",
+        "pump_to_destination_duration": "161.78333333333333min",
+        "total_time": "350.9422083333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "351.2837450980392 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump -Lalit Automobiles",
+        "original_source_to_pump_distance": "5.736km",
+        "original_source_to_pump_duration": "11.433333333333334min",
+        "pump_to_destination_distance": "147.39km",
+        "pump_to_destination_duration": "155.05min",
+        "total_time": "351.63120000000004 minutes"
+    },
+    {
+        "petrol_pump_name": "Jio-bp",
+        "original_source_to_pump_distance": "22.623km",
+        "original_source_to_pump_duration": "39.53333333333333min",
+        "pump_to_destination_distance": "132.731km",
+        "pump_to_destination_duration": "130.48333333333332min",
+        "total_time": "353.20877083333335 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "353.23391228070176 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "353.7975625 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump - Vitthal Automobiles",
+        "original_source_to_pump_distance": "29.237km",
+        "original_source_to_pump_duration": "44.31666666666667min",
+        "pump_to_destination_distance": "122.696km",
+        "pump_to_destination_duration": "118.73333333333333min",
+        "total_time": "354.17914583333334 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "5.455km",
+        "original_source_to_pump_duration": "11.366666666666667min",
+        "pump_to_destination_distance": "148.8km",
+        "pump_to_destination_duration": "155.8min",
+        "total_time": "354.5114705882353 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump -Lalit Automobiles",
+        "original_source_to_pump_distance": "5.736km",
+        "original_source_to_pump_duration": "11.433333333333334min",
+        "pump_to_destination_distance": "147.39km",
+        "pump_to_destination_duration": "155.05min",
+        "total_time": "354.63120000000004 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "17.414km",
+        "original_source_to_pump_duration": "30.05min",
+        "pump_to_destination_distance": "134.52km",
+        "pump_to_destination_duration": "133.0min",
+        "total_time": "355.0403333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Nayara Petrol Pump - Shiv Sai Petroleum",
+        "original_source_to_pump_distance": "12.081km",
+        "original_source_to_pump_duration": "22.733333333333334min",
+        "pump_to_destination_distance": "147.057km",
+        "pump_to_destination_duration": "151.01666666666668min",
+        "total_time": "355.26526666666666 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petrol Pump",
+        "original_source_to_pump_distance": "7.92km",
+        "original_source_to_pump_duration": "19.916666666666668min",
+        "pump_to_destination_distance": "154.527km",
+        "pump_to_destination_duration": "166.9min",
+        "total_time": "356.355 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "5.455km",
+        "original_source_to_pump_duration": "11.366666666666667min",
+        "pump_to_destination_distance": "148.8km",
+        "pump_to_destination_duration": "155.8min",
+        "total_time": "356.805 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "357.45162745098037 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "359.00216666666665 minutes"
+    },
+    {
+        "petrol_pump_name": "BP WADI, BPCL COCO PUMP, WADI.",
+        "original_source_to_pump_distance": "7.566km",
+        "original_source_to_pump_duration": "13.833333333333334min",
+        "pump_to_destination_distance": "144.368km",
+        "pump_to_destination_duration": "149.2min",
+        "total_time": "359.3163333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "359.7975625 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump Shree Krishna Automobiles",
+        "original_source_to_pump_distance": "7.435km",
+        "original_source_to_pump_duration": "13.383333333333333min",
+        "pump_to_destination_distance": "144.499km",
+        "pump_to_destination_duration": "149.66666666666666min",
+        "total_time": "359.8488541666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump -Lalit Automobiles",
+        "original_source_to_pump_distance": "5.736km",
+        "original_source_to_pump_duration": "11.433333333333334min",
+        "pump_to_destination_distance": "147.39km",
+        "pump_to_destination_duration": "155.05min",
+        "total_time": "361.2513333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump",
+        "original_source_to_pump_distance": "5.121km",
+        "original_source_to_pump_duration": "10.35min",
+        "pump_to_destination_distance": "148.725km",
+        "pump_to_destination_duration": "155.56666666666666min",
+        "total_time": "361.41345614035083 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump",
+        "original_source_to_pump_distance": "5.121km",
+        "original_source_to_pump_duration": "10.35min",
+        "pump_to_destination_distance": "148.725km",
+        "pump_to_destination_duration": "155.56666666666666min",
+        "total_time": "361.46049999999997 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -Panchsheel Automobiles",
+        "original_source_to_pump_distance": "14.771km",
+        "original_source_to_pump_duration": "26.85min",
+        "pump_to_destination_distance": "138.944km",
+        "pump_to_destination_duration": "139.28333333333333min",
+        "total_time": "361.92680392156865 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "20.578km",
+        "original_source_to_pump_duration": "34.31666666666667min",
+        "pump_to_destination_distance": "146.595km",
+        "pump_to_destination_duration": "148.8min",
+        "total_time": "361.9685263157895 minutes"
+    },
+    {
+        "petrol_pump_name": "BP WADI, BPCL COCO PUMP, WADI.",
+        "original_source_to_pump_distance": "7.566km",
+        "original_source_to_pump_duration": "13.833333333333334min",
+        "pump_to_destination_distance": "144.368km",
+        "pump_to_destination_duration": "149.2min",
+        "total_time": "363.455875 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "363.5374 minutes"
+    },
+    {
+        "petrol_pump_name": "HP PETROL PUMP - ABHIJIT PETROLEUM",
+        "original_source_to_pump_distance": "14.629km",
+        "original_source_to_pump_duration": "29.233333333333334min",
+        "pump_to_destination_distance": "142.678km",
+        "pump_to_destination_duration": "146.88333333333333min",
+        "total_time": "365.45162745098037 minutes"
+    },
+    {
+        "petrol_pump_name": "JAI DURGA AUTOMOBILES",
+        "original_source_to_pump_distance": "13.986km",
+        "original_source_to_pump_duration": "26.383333333333333min",
+        "pump_to_destination_distance": "138.877km",
+        "pump_to_destination_duration": "139.35min",
+        "total_time": "365.5778823529412 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum (SRPF)",
+        "original_source_to_pump_distance": "5.932km",
+        "original_source_to_pump_duration": "14.0min",
+        "pump_to_destination_distance": "147.904km",
+        "pump_to_destination_duration": "157.61666666666667min",
+        "total_time": "365.916 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "21.145km",
+        "original_source_to_pump_duration": "36.8min",
+        "pump_to_destination_distance": "138.949km",
+        "pump_to_destination_duration": "140.53333333333333min",
+        "total_time": "366.4273958333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum, Petrol Pump -T.C.I. India Ltd.",
+        "original_source_to_pump_distance": "13.971km",
+        "original_source_to_pump_duration": "26.2min",
+        "pump_to_destination_distance": "140.506km",
+        "pump_to_destination_duration": "142.36666666666667min",
+        "total_time": "366.58660784313724 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "7.211km",
+        "original_source_to_pump_duration": "14.366666666666667min",
+        "pump_to_destination_distance": "145.99km",
+        "pump_to_destination_duration": "152.56666666666666min",
+        "total_time": "367.5055 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum (SRPF)",
+        "original_source_to_pump_distance": "5.932km",
+        "original_source_to_pump_duration": "14.0min",
+        "pump_to_destination_distance": "147.904km",
+        "pump_to_destination_duration": "157.61666666666667min",
+        "total_time": "367.95341666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "1.036km",
+        "original_source_to_pump_duration": "3.2min",
+        "pump_to_destination_distance": "152.538km",
+        "pump_to_destination_duration": "164.3min",
+        "total_time": "369.21178947368423 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "20.578km",
+        "original_source_to_pump_duration": "34.31666666666667min",
+        "pump_to_destination_distance": "146.595km",
+        "pump_to_destination_duration": "148.8min",
+        "total_time": "371.375125 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump Lamba Traders",
+        "original_source_to_pump_distance": "3.81km",
+        "original_source_to_pump_duration": "10.216666666666667min",
+        "pump_to_destination_distance": "150.868km",
+        "pump_to_destination_duration": "164.96666666666667min",
+        "total_time": "372.1924561403509 minutes"
+    },
+    {
+        "petrol_pump_name": "Hindustan Petroleum HP Petrol Pump Gulshan Automobiles",
+        "original_source_to_pump_distance": "19.729km",
+        "original_source_to_pump_duration": "34.63333333333333min",
+        "pump_to_destination_distance": "132.411km",
+        "pump_to_destination_duration": "129.7min",
+        "total_time": "372.5374 minutes"
+    },
+    {
+        "petrol_pump_name": "BP WADI, BPCL COCO PUMP, WADI.",
+        "original_source_to_pump_distance": "7.566km",
+        "original_source_to_pump_duration": "13.833333333333334min",
+        "pump_to_destination_distance": "144.368km",
+        "pump_to_destination_duration": "149.2min",
+        "total_time": "373.455875 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump",
+        "original_source_to_pump_distance": "4.145km",
+        "original_source_to_pump_duration": "10.433333333333334min",
+        "pump_to_destination_distance": "151.344km",
+        "pump_to_destination_duration": "161.2min",
+        "total_time": "374.687 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "13.056km",
+        "original_source_to_pump_duration": "25.266666666666666min",
+        "pump_to_destination_distance": "146.283km",
+        "pump_to_destination_duration": "150.95min",
+        "total_time": "375.6855294117647 minutes"
+    },
+    {
+        "petrol_pump_name": "Durwa filling station (Bharat Petroleum)",
+        "original_source_to_pump_distance": "10.795km",
+        "original_source_to_pump_duration": "22.016666666666666min",
+        "pump_to_destination_distance": "145.713km",
+        "pump_to_destination_duration": "152.31666666666666min",
+        "total_time": "376.38885416666665 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "21.145km",
+        "original_source_to_pump_duration": "36.8min",
+        "pump_to_destination_distance": "138.949km",
+        "pump_to_destination_duration": "140.53333333333333min",
+        "total_time": "380.2203333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "HP Petrol Pump",
+        "original_source_to_pump_distance": "5.121km",
+        "original_source_to_pump_duration": "10.35min",
+        "pump_to_destination_distance": "148.725km",
+        "pump_to_destination_duration": "155.56666666666666min",
+        "total_time": "383.6392666666667 minutes"
+    },
+    {
+        "petrol_pump_name": "IndianOil",
+        "original_source_to_pump_distance": "7.477km",
+        "original_source_to_pump_duration": "13.483333333333333min",
+        "pump_to_destination_distance": "144.635km",
+        "pump_to_destination_duration": "150.18333333333334min",
+        "total_time": "386.66953333333333 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat Petroleum Petrol Pump",
+        "original_source_to_pump_distance": "4.145km",
+        "original_source_to_pump_duration": "10.433333333333334min",
+        "pump_to_destination_distance": "151.344km",
+        "pump_to_destination_duration": "161.2min",
+        "total_time": "387.53156249999995 minutes"
+    },
+    {
+        "petrol_pump_name": "HSD BHATIA SERVICE STATION",
+        "original_source_to_pump_distance": "5.702km",
+        "original_source_to_pump_duration": "15.2min",
+        "pump_to_destination_distance": "153.53km",
+        "pump_to_destination_duration": "168.36666666666667min",
+        "total_time": "394.5740416666667 minutes"
+    },
+    {
+        "petrol_pump_name": "Bharat petroleum",
+        "original_source_to_pump_distance": "4.569km",
+        "original_source_to_pump_duration": "13.35min",
+        "pump_to_destination_distance": "155.379km",
+        "pump_to_destination_duration": "171.75min",
+        "total_time": "396.3200625 minutes"
+    }
+]

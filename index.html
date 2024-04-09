@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Run Python Script</title>
+</head>
+<body>
+    <h1>Run Python Script</h1>
+    <button onclick="runScript()">Run Script</button>
+
+    <script>
+        function runScript() {
+            fetch('/runScript', { method: 'POST' })
+                .then(response => response.text())
+                .then(output => {
+                    console.log('Output:', output);
+                    alert('Script output: ' + output);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('An error occurred, check console for details.');
+                });
+        }
+    </script>
+</body>
+</html>
